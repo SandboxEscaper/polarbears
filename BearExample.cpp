@@ -1,7 +1,3 @@
-// ExploitCollector.cpp : Defines the entry point for the console application.
-//
-
-
 #include <comdef.h>
 #include <iostream>
 #include <Hstring.h>
